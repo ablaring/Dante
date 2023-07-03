@@ -46,15 +46,20 @@ Here's an example of how you might run the dante program and what the expected o
 make && ./generator 24 6
 ```
 #Here is a 24x6 maze. . .
+```
 *****XX****X********XXXX
 XX******XX***XXXXX***XXX
 XX***XXXX**XXXXX****XXXX
 XX***XXXXXXXXXXXXXX****X
 *****XXXXXX****XX***XXXX
 XX*************XXXX*****
+```
 
+```
 ./solver maze.txt
+```
 
+```
 . . .and a way to solve it.
 oooooXXooooXooooooooXXXX
 XX**ooooXXoooXXXXX*o*XXX
@@ -62,6 +67,7 @@ XX***XXXX**XXXXX***oXXXX
 XX***XXXXXXXXXXXXXXo***X
 *****XXXXXX****XX**oXXXX
 XX*************XXXXooooo
+```
 
 ## Developers
 - [Arthur Blaringhem](https://github.com/ablaring)
