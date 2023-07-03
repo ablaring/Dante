@@ -54,12 +54,12 @@ XX***XXXXXXXXXXXXXX****X
 *****XXXXXX****XX***XXXX
 XX*************XXXX*****
 ```
+. . .and a way to solve it.
 
 ```
 ./solver maze.txt
 ```
 
-. . .and a way to solve it.
 ```
 oooooXXooooXooooooooXXXX
 XX**ooooXXoooXXXXX*o*XXX
