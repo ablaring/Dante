@@ -59,8 +59,8 @@ XX*************XXXX*****
 ./solver maze.txt
 ```
 
-```
 . . .and a way to solve it.
+```
 oooooXXooooXooooooooXXXX
 XX**ooooXXoooXXXXX*o*XXX
 XX***XXXX**XXXXX***oXXXX
