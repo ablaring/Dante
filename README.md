@@ -2,7 +2,7 @@
 =======
 
 ## Description
-Dante is a first-year project at Epitech divided in 2 part one is for generate a maze and the second is to solve the maze. The program must be run with a specific file that contains all necessary information.
+Dante is a first-year project at Epitech, divided into two parts. The first part generates a maze, while the second part solves the maze. The program must be run with a specific file that contains all necessary information
 
 The goal of this project is to generate mazes (in a reasonable amount of time), solve them (in a reasonable
 amount of time), and print the solution.
@@ -44,8 +44,6 @@ Here's an example of how you might run the dante program and what the expected o
 
 ```
 make && ./generator 24 6
-```
-
 ```
 #Here is a 24x6 maze. . .
 *****XX****X********XXXX
